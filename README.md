@@ -20,13 +20,16 @@ To run the application locally, follow these steps:
 
 
 2. Navigate to the project directory:
-cd Tajiri_app
+   ```bash
+   cd Tajiri_app
 
-3. Install dependencies:
-npm install
+4. Install dependencies:
+   ```bash
+   npm install
 
-4. Start the application:
-npm start
+5. Start the application:
+   ```bash
+   npm start
 The application will be accessible at http://localhost:3000 in your web browser.
 
 To build and run the docker image:
