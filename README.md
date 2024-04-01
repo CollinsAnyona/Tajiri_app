@@ -32,7 +32,7 @@ To run the application locally, follow these steps:
    npm start
 The application will be accessible at http://localhost:3000 in your web browser.
 
-To build and run the docker image:
+ ## To build and run the docker image:
 Build the docker image:
 	docker build -t tajiri-app .
 Run a docker container:
@@ -40,4 +40,6 @@ docker run -p 3000:3000 tajiri-app
 
 This repository includes the HTML, CSS, and JavaScript files required to run the application. You can find them in the public directory
 
+## Docker Hub repo:
+https://hub.docker.com/repository/docker/collinsanyona/tajiri-app/general
 
